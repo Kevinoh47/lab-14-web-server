@@ -1,9 +1,10 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) OAuth
 ===========================================
 ## Travis CI
+[![Build Status](https://travis-ci.com/Kevinoh47/lab-14-web-server.svg?branch=master)](https://travis-ci.com/Kevinoh47/lab-14-web-server)
 
 ## Heroku
-
+https://codefellows-401-lab14-web.herokuapp.com/
 
 ## Before you begin
 * You'll need to initialize this lab folder as a new node module, install your dependencies, setup your npm script commands, and pull in your config files
